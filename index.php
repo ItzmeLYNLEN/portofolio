@@ -39,9 +39,6 @@
           <li class="nav-item mx-0 mx-lg-2">
             <a class="nav-link" href="#contact">Contact</a>
           </li>
-          <li>
-            <button onclick="myFunction()">Change</button>
-          </li>
         </ul>
       </div>
     </div>
@@ -278,13 +275,10 @@
     <div class="container p-4 pb-0">
       <!-- Section: Social media -->
       <section class="mb-4">
-        <!-- Whatsapp -->
-        <a class="btn text-white btn-floating m-1" style="background-color: #25D366;" href="https://api.whatsapp.com/send?phone=6288289699806" role="button"><i class="bi bi-whatsapp"></i></a>
+        <a class="btn text-white btn-floating m-1" style="background-color: red;" href="https://www.youtube.com/channel/UC4mViXpUaKG1jnJ6xx35aQQ" role="button"><i class="bi bi-youtube"></i></a>
 
-        <!-- Google -->
-        <a class="btn text-white btn-floating m-1" style="background-color: #dd4b39;" href="#contact" role="button"><i class="bi bi-google"></i></a>
+        <a class="btn text-white btn-floating m-1" style="background-color: #333333;" href="https://github.com/ItzmeLYNLEN" role="button"><i class="bi bi-github"></i></a>
 
-        <!-- Instagram -->
         <a class="btn text-white btn-floating m-1" style="background-color: #ac2bac;" href="https://www.instagram.com/dzikraa_24" role="button"><i class="bi bi-instagram"></i></a>
       </section>
       <!-- Section: Social media -->
