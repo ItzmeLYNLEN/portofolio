@@ -181,11 +181,11 @@
         </div>
         <div class="col-10 col-md-6 col-lg-4 d-flex align-items-stretch">
           <div class="card ">
-            <a href="assets/project/p5.png">
-              <img src="assets/project/p5.png" class="card-img-top" alt="..." />
+            <a href="assets/project/crud-laravel.png">
+              <img src="assets/project/crud-laravel.png" class="card-img-top" alt="..." />
             </a>
             <div class="card-body">
-              <p class="card-text">Belajar Membuat Folder Menggunakan CMD</p>
+              <p class="card-text">membuat CRUD dengan laravel</p>
             </div>
           </div>
         </div>
